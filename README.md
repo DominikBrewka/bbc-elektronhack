@@ -1,6 +1,6 @@
 # bbc-elektronhack
 
-nie zdazylylismy 🥲
+nie zdążyliśmy 🥲
 
 było miło, dzięki za doświadczenie
 - zespół bbc
