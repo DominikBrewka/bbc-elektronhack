@@ -1,5 +1,5 @@
 # bbc-elektronhack
 
-pobierz pliki
-wejdź w folder build
-otwórz elektronhack.exe
+1. pobierz pliki
+2. wejdź w folder build
+3. otwórz elektronhack.exe
