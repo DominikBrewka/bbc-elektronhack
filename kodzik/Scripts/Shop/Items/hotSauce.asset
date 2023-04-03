@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb8312b590e881841bf591b8edfe8b53, type: 3}
+  m_Name: hotSauce
+  m_EditorClassIdentifier: 
+  name: Ostry sos
+  description: "Bardzo zwi\u0119ksza dmg, odejmuje hp"
+  sprite: {fileID: 2800000, guid: fe006175ad837c84aa0f184dc6bd1b31, type: 3}
+  pistolDamage: 0
+  rocketDamage: 0
+  movementSpeed: 0
+  blastRadius: 0
+  recoverHP: -35
+  maxHP: 0

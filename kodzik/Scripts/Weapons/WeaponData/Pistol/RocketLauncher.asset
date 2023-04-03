@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611cad86e1429de449151b867bd3b69c, type: 3}
+  m_Name: RocketLauncher
+  m_EditorClassIdentifier: 
+  name: RocketLauncher
+  damage: 0
+  magSize: 5
+  fireRate: 1
+  reloadTime: 2
+  reloadAnimation: {fileID: 0}
+  shootAnimation: {fileID: 0}
+  shootSound: {fileID: 8300000, guid: 630ac30523b77254ea1d5ae4eb992df9, type: 3}
+  reloadStartSound: {fileID: 8300000, guid: b7bb9eeb6711d1649a3b826bc9ce938c, type: 3}
+  reloadSound: {fileID: 8300000, guid: 9bad2faf3ccf0c147ae383caf76d5a41, type: 3}
+  noAmmoShootSound: {fileID: 8300000, guid: 839cdce076ca7c344aab80fea3413fe7, type: 3}
+  projectile: {fileID: 6371866024277834132, guid: e55f30d6a86b97646af55403bec63771,
+    type: 3}

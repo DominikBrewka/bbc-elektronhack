@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611cad86e1429de449151b867bd3b69c, type: 3}
+  m_Name: PistolNew
+  m_EditorClassIdentifier: 
+  name: 
+  damage: 0
+  magSize: 100
+  fireRate: 25
+  reloadTime: 1
+  reloadAnimation: {fileID: 0}
+  shootAnimation: {fileID: 0}
+  shootSound: {fileID: 8300000, guid: 9bad2faf3ccf0c147ae383caf76d5a41, type: 3}
+  reloadStartSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  noAmmoShootSound: {fileID: 0}
+  projectile: {fileID: 4643776915180895651, guid: 3bb890519257dd54c8544de5ffb32479,
+    type: 3}

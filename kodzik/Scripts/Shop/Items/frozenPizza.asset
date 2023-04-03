@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb8312b590e881841bf591b8edfe8b53, type: 3}
+  m_Name: frozenPizza
+  m_EditorClassIdentifier: 
+  name: "Mro\u017Cona pizza"
+  description: "Odnawia troche \u017Cycia i maksymalnego \u017Cycia, zmniejsza pr\u0119dko\u015B\u0107
+    poruszania"
+  sprite: {fileID: 2800000, guid: 8a1187078ad7918449c97b8b6c10d474, type: 3}
+  pistolDamage: 0
+  rocketDamage: 0
+  movementSpeed: -1.3
+  blastRadius: 0
+  recoverHP: 25
+  maxHP: 10
